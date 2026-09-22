@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 WAD18 Periodic Table Reproducibility Framework
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS FOR SCIENTIFIC USE:
+
+1. Attribution: If you use this framework in published research, please cite:
+   "WAD18 Periodic Table Reproducibility Capsule v1.0.0 (2026)"
+
+2. Reproducibility: This software is designed for reproducible measurement.
+   If you discover platform-dependent behavior, please report it immediately.
+
+3. Data Integrity: The periodic table data (periodic_table_wad18.json) is
+   certified to the best of current scientific knowledge. Any errors should
+   be reported with evidence for correction.
+
+4. Specification Stability: The acceptance criteria (acceptance_criteria.md)
+   are frozen as of 2026-09-21. Changes require new version release.
+
+---
+
+For questions about licensing, data attribution, or scientific use,
+see README.md and REPRODUCIBILITY_GUIDE.md.
